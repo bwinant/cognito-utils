@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Downloads Cognito User Pool JWT signing keys",
   "devDependencies": {
+    "argparse": "^1.0.10",
     "jwk-to-pem": "^2.0.0"
   }
 }
