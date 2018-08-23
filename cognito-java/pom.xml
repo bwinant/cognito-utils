@@ -20,6 +20,7 @@
 
 	<modules>
 		<module>spring-security-cognito</module>
+		<module>user-management</module>
 		<module>examples</module>
 	</modules>
 </project>
